@@ -1,3 +1,5 @@
+# FoxyCracker
+![Foxy-Cracker](https://github.com/BerraLeet/md5_crypt-hashcracker-python/assets/86689476/5f6b06e4-f355-4581-8b6a-8bee6c697932)
 # MD5-Crypt Cracker Script
 
 ## Table of Contents
@@ -7,7 +9,7 @@
   - [Disclaimer](#disclaimer)
   - [Dependencies](#dependencies)
   - [Example Usage](#example-usage)
-- [Define the salt and the full hash (with MD5 identifier)](#define-the-salt-and-the-full-hash-with-md5-identifier)
+
 
 
 ## Description
