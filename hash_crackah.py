@@ -9,7 +9,7 @@ full_hash = "$1$dlPL2MqE$oQmn16q49SqdmhenQuNgs1"
 
 def md5_crypt_cracker(hash_to_crack, salt):
     try:
-        with open("rockyou.txt", "r", encoding="latin-1") as wordlist:
+        with open("rockyou.txt", "r", encoding="utf-8") as wordlist:
             for password in wordlist:
                 password = password.strip()
                 # calculating MD5-crypt, setting the salt with using function
